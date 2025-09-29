@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Nina 😊
 
-- 🌱 Estuando: C#, Python, Kotlin, HTML, CSS, Java Script
+- 🌱 Estudando: C#, Python, Kotlin, HTML, CSS, Java Script(React)
 - 📫 Email: ninasepulvedacarvalho@gmail.com
 - 😄 Pronouns: Ela/Dela
 
